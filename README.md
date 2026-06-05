@@ -14,6 +14,3 @@ ENVIROMENTAL SCIENTIST I GIS TECHNICIAN
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=angelpgreen&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=angelpgreen&icon=0&color=0)](https://visitcount.itsvg.in)
